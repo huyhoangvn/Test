@@ -11,7 +11,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         /// quyết đây
-        ///Hoàng
-        //hdhdhd
+        ///Hoàng nguu
+        // duc ...
+        // duc
+        //vũ đây
     }
 }
