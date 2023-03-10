@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         /// quyết đây
         ///Hoàng
-        //phuc day
+//        phuc day ngu nhu bòmmmm
     }
 }
